@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.30324.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HangCards GUI", "HangCards GUI\HangCards GUI.csproj", "{017FC012-FE71-40DA-9644-F4576EF5043F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardLib", "CardLib\CardLib.csproj", "{2462070D-C8D2-4435-AAFF-9B3565E64122}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{017FC012-FE71-40DA-9644-F4576EF5043F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{017FC012-FE71-40DA-9644-F4576EF5043F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{017FC012-FE71-40DA-9644-F4576EF5043F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2462070D-C8D2-4435-AAFF-9B3565E64122}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2462070D-C8D2-4435-AAFF-9B3565E64122}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2462070D-C8D2-4435-AAFF-9B3565E64122}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2462070D-C8D2-4435-AAFF-9B3565E64122}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

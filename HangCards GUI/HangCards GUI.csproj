@@ -124,7 +124,12 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\CardLib\CardLib.csproj">
+      <Project>{2462070d-c8d2-4435-aaff-9b3565e64122}</Project>
+      <Name>CardLib</Name>
+    </ProjectReference>
+  </ItemGroup>
   <ItemGroup>
     <Resource Include="Images\Banner.png" />
   </ItemGroup>
