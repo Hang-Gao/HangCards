@@ -3,3 +3,8 @@ F:\Documents\visual studio 2013\Beginning Visual C# 2012 Programming\Chapter16Co
 F:\Documents\visual studio 2013\Beginning Visual C# 2012 Programming\Chapter16Code\CardLib\obj\Debug\CardLib.csprojResolveAssemblyReference.cache
 F:\Documents\visual studio 2013\Beginning Visual C# 2012 Programming\Chapter16Code\CardLib\obj\Debug\Ch13CardLib.dll
 F:\Documents\visual studio 2013\Beginning Visual C# 2012 Programming\Chapter16Code\CardLib\obj\Debug\Ch13CardLib.pdb
+F:\Documents\Visual Studio 2013\Projects\HangCards\CardLib\bin\Debug\Ch13CardLib.dll
+F:\Documents\Visual Studio 2013\Projects\HangCards\CardLib\bin\Debug\Ch13CardLib.pdb
+F:\Documents\Visual Studio 2013\Projects\HangCards\CardLib\obj\Debug\CardLib.csprojResolveAssemblyReference.cache
+F:\Documents\Visual Studio 2013\Projects\HangCards\CardLib\obj\Debug\Ch13CardLib.dll
+F:\Documents\Visual Studio 2013\Projects\HangCards\CardLib\obj\Debug\Ch13CardLib.pdb
