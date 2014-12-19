@@ -60,6 +60,7 @@
     <Compile Include="GameClient.xaml.cs">
       <DependentUpon>GameClient.xaml</DependentUpon>
     </Compile>
+    <Compile Include="RankNameConverter.cs" />
     <Compile Include="StartGame.xaml.cs">
       <DependentUpon>StartGame.xaml</DependentUpon>
     </Compile>

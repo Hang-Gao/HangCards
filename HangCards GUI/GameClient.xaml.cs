@@ -22,6 +22,23 @@ namespace HangCards_GUI
         public GameClient()
         {
             InitializeComponent();
+
+            var position = new Point(15, 15);
+            for(var i = 0; i < 4; i++)
+            {
+                var suit = (CardLib.Suit)i;
+                position.Y = 15;
+                for(int rank = 1; rank < 14; rank++)
+                {
+                    position.Y += 30;
+                    var card = new CardControl(new CardLib.Card((Suit)suit, (Rank)rank));
+                    card.VerticalAlignment = VerticalAlignment.Top;
+                    card.HorizontalAlignment = HorizontalAlignment.Left;
+                    card.Margin = new Thickness(position.X, position.Y, 0, 0);
+                    contentGrid.Children.Add(card);
+                }
+                position.X += 122;
+            }
         }
 
         private void CommandCanExecute(object sender, CanExecuteRoutedEventArgs e)
