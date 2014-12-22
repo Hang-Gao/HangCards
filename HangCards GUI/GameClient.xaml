@@ -2,7 +2,7 @@
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:src="clr-namespace:HangCards_GUI"
-        Title="Hang Cards Game Client" WindowState="Maximized">
+        Title="Hang Cards Game Client" WindowState="Maximized" >
     
     <Window.CommandBindings>
         <CommandBinding Command="ApplicationCommands.Close" CanExecute="CommandCanExecute" Executed="CommandExecuted"/>

@@ -13,6 +13,7 @@ using System.Windows.Input;
 //using System.Windows.Shapes;
 using System.IO;
 using System.Xml.Serialization;
+using CardLib;
 
 namespace HangCards_GUI
 {

@@ -5,7 +5,7 @@
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
              xmlns:src="clr-namespace:HangCards_GUI"
              mc:Ignorable="d" 
-             d:DesignHeight="154" d:DesignWidth="100" x:Name="UserControl">
+             Height="154" Width="100" x:Name="UserControl">
     <UserControl.Resources>
         <src:RankNameConverter x:Key="rankConverter"/>
         <DataTemplate x:Key="SuitTemplate">
@@ -14,16 +14,16 @@
         <Style TargetType="Image" x:Key="SuitImage">
             <Style.Triggers>
                 <DataTrigger Binding="{Binding ElementName=UserControl, Path=Suit}" Value="Club">
-                    <Setter Property="Source" Value="Images\Clubs.png" />
+                    <Setter Property="Source" Value="F:\Documents\Visual Studio 2013\Projects\HangCards\HangCards GUI\Images\Clubs.png" />
                 </DataTrigger>
                 <DataTrigger Binding="{Binding ElementName=UserControl, Path=Suit}" Value="Heart">
-                    <Setter Property="Source" Value="Images\Hearts.png" />
+                    <Setter Property="Source" Value="F:\Documents\Visual Studio 2013\Projects\HangCards\HangCards GUI\Images\Hearts.png"/>
                 </DataTrigger>
                 <DataTrigger Binding="{Binding ElementName=UserControl, Path=Suit}" Value="Diamond">
-                    <Setter Property="Source" Value="Images\Diamonds.png" />
+                    <Setter Property="Source" Value="F:\Documents\Visual Studio 2013\Projects\HangCards\HangCards GUI\Images\Diamonds.png"/>
                 </DataTrigger>
                 <DataTrigger Binding="{Binding ElementName=UserControl, Path=Suit}" Value="Spade">
-                    <Setter Property="Source" Value="Images\Spades.png" />
+                    <Setter Property="Source" Value="F:\Documents\Visual Studio 2013\Projects\HangCards\HangCards GUI\Images\Spades.png"/>
                 </DataTrigger>
             </Style.Triggers>
         </Style>

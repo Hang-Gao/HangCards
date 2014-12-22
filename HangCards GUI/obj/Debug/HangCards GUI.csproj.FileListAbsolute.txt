@@ -24,3 +24,4 @@ F:\Documents\Visual Studio 2013\Projects\HangCards\HangCards GUI\obj\Debug\GameC
 F:\Documents\visual studio 2013\Projects\HangCards\HangCards GUI\bin\Debug\Ch13CardLib.dll
 F:\Documents\visual studio 2013\Projects\HangCards\HangCards GUI\bin\Debug\Ch13CardLib.pdb
 F:\Documents\Visual Studio 2013\Projects\HangCards\HangCards GUI\obj\Debug\CardControl.g.cs
+F:\Documents\Visual Studio 2013\Projects\HangCards\HangCards GUI\obj\Debug\CardControl.baml

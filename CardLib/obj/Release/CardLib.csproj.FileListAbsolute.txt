@@ -1,0 +1,5 @@
+F:\Documents\Visual Studio 2013\Projects\HangCards\CardLib\bin\Release\Ch13CardLib.dll
+F:\Documents\Visual Studio 2013\Projects\HangCards\CardLib\bin\Release\Ch13CardLib.pdb
+F:\Documents\Visual Studio 2013\Projects\HangCards\CardLib\obj\Release\CardLib.csprojResolveAssemblyReference.cache
+F:\Documents\Visual Studio 2013\Projects\HangCards\CardLib\obj\Release\Ch13CardLib.dll
+F:\Documents\Visual Studio 2013\Projects\HangCards\CardLib\obj\Release\Ch13CardLib.pdb

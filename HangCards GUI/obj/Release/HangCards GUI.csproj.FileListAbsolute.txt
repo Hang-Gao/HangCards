@@ -1,1 +1,27 @@
 F:\Documents\Visual Studio 2013\Projects\HangCards\HangCards GUI\bin\Release\HangCards GUI.exe.config
+F:\Documents\Visual Studio 2013\Projects\HangCards\HangCards GUI\bin\Release\HangCards GUI.exe
+F:\Documents\Visual Studio 2013\Projects\HangCards\HangCards GUI\bin\Release\HangCards GUI.pdb
+F:\Documents\Visual Studio 2013\Projects\HangCards\HangCards GUI\bin\Release\Ch13CardLib.dll
+F:\Documents\Visual Studio 2013\Projects\HangCards\HangCards GUI\bin\Release\Ch13CardLib.pdb
+F:\Documents\Visual Studio 2013\Projects\HangCards\HangCards GUI\obj\Release\HangCards GUI.csprojResolveAssemblyReference.cache
+F:\Documents\Visual Studio 2013\Projects\HangCards\HangCards GUI\obj\Release\About.baml
+F:\Documents\Visual Studio 2013\Projects\HangCards\HangCards GUI\obj\Release\MainWindow.baml
+F:\Documents\Visual Studio 2013\Projects\HangCards\HangCards GUI\obj\Release\StartGame.baml
+F:\Documents\Visual Studio 2013\Projects\HangCards\HangCards GUI\obj\Release\About.g.cs
+F:\Documents\Visual Studio 2013\Projects\HangCards\HangCards GUI\obj\Release\CardControl.g.cs
+F:\Documents\Visual Studio 2013\Projects\HangCards\HangCards GUI\obj\Release\GameClient.g.cs
+F:\Documents\Visual Studio 2013\Projects\HangCards\HangCards GUI\obj\Release\MainWindow.g.cs
+F:\Documents\Visual Studio 2013\Projects\HangCards\HangCards GUI\obj\Release\Options.g.cs
+F:\Documents\Visual Studio 2013\Projects\HangCards\HangCards GUI\obj\Release\StartGame.g.cs
+F:\Documents\Visual Studio 2013\Projects\HangCards\HangCards GUI\obj\Release\App.g.cs
+F:\Documents\Visual Studio 2013\Projects\HangCards\HangCards GUI\obj\Release\GeneratedInternalTypeHelper.g.cs
+F:\Documents\Visual Studio 2013\Projects\HangCards\HangCards GUI\obj\Release\HangCards GUI_MarkupCompile.cache
+F:\Documents\Visual Studio 2013\Projects\HangCards\HangCards GUI\obj\Release\HangCards GUI_MarkupCompile.lref
+F:\Documents\Visual Studio 2013\Projects\HangCards\HangCards GUI\obj\Release\CardControl.baml
+F:\Documents\Visual Studio 2013\Projects\HangCards\HangCards GUI\obj\Release\GameClient.baml
+F:\Documents\Visual Studio 2013\Projects\HangCards\HangCards GUI\obj\Release\Options.baml
+F:\Documents\Visual Studio 2013\Projects\HangCards\HangCards GUI\obj\Release\HangCards GUI.g.resources
+F:\Documents\Visual Studio 2013\Projects\HangCards\HangCards GUI\obj\Release\HangCards_GUI.Properties.Resources.resources
+F:\Documents\Visual Studio 2013\Projects\HangCards\HangCards GUI\obj\Release\HangCards GUI.csproj.GenerateResource.Cache
+F:\Documents\Visual Studio 2013\Projects\HangCards\HangCards GUI\obj\Release\HangCards GUI.exe
+F:\Documents\Visual Studio 2013\Projects\HangCards\HangCards GUI\obj\Release\HangCards GUI.pdb

@@ -5,6 +5,7 @@ using System.Collections.ObjectModel;
 //using System.Text;
 //using System.Threading.Tasks;
 using System.ComponentModel;
+using CardLib;
 
 namespace HangCards_GUI
 {
@@ -112,11 +113,4 @@ namespace HangCards_GUI
         }
     }
 
-    [Serializable]
-    public enum ComputerSkillLevel
-    {
-        Dumb,
-        Good,
-        Cheats
-    }
 }
